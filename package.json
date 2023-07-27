@@ -1,0 +1,11 @@
+{
+  "name": "namastereact2",
+  "version": "1.0.0",
+  "description": "Revision",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Shweta",
+  "license": "ISC"
+}
