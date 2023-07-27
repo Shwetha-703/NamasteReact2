@@ -5,4 +5,4 @@ heading.innerHTML = "Namaste!";
 
 const root = document.getElementById("root");
 
-root.appendChild(heading);
+root.appendChild(heading); 
